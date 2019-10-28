@@ -1,6 +1,6 @@
 # LARAVEL + VUE Single Page Application
 
-See application on action by clicking [this link](https://abdilah/s/10005) or see the blog post by clicking [here](https://abdilah.id/blog/2019/10/28/membuat-aplikasi-single-page-mengunakan-laravel-6-dan-vue-js).
+See application on action by clicking [this link](https://abdilah/s/10006) or see the blog post by clicking [here](https://abdilah/s/10005).
 
 ## Inisialisasi
 
