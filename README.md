@@ -1,6 +1,6 @@
 # LARAVEL + VUE Single Page Application
 
-See application on action by clicking [this link](https://abdilah/s/10006) or see the blog post by clicking [here](https://abdilah/s/10005).
+See application on action by clicking [this link](https://abdilah.id/s/10006) or see the blog post by clicking [here](https://abdilah.id/s/10005).
 
 ## Inisialisasi
 
